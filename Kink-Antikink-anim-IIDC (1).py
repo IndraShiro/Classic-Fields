@@ -3,7 +3,7 @@
 """
 Created on Sun Mar  9 15:29:59 2025
 
-@author: I.I. De León Cortés.
+@author: I.I. D. Cortés.
 ileon001@alumno.uaemex.mx
 Teoría Clasica de Campos a cargo del Dr. J.M. Dávila Dávila.
 """
